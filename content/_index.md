@@ -14,30 +14,6 @@ sections:
       text:
       
       
-    - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Publications'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://doi.org/10.1109/CISAI54367.2021.00060
-          date_end: ''
-          date_start: '2021'
-          description: ''
-          organization: Coursera
-          organization_url: https://doi.org/10.1109/CISAI54367.2021.00060
-          title: Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model
-          url: 'https://doi.org/10.1109/CISAI54367.2021.00060'
-    design:
-      columns: '2'    
-      
       
   - block: experience
     content:
