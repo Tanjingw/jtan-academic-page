@@ -31,7 +31,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 60
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
@@ -48,7 +48,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 125
   anchor: smart
 timeout: 600000
 taxonomies:
