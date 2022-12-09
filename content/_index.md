@@ -34,12 +34,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: tjw@henu.edu.cn
-      address:
-        street: Øster Farimagsgade 5
-        city: Copenhagen
-        country: Denmark
-        country_code: DK
-      directions: Department of Economics, University of Copenhagen
+      directions: Øster Farimagsgade 5, Copenhagen, DK-1353, Denmark
       contact_links:
         - icon: twitter
           icon_pack: fab
