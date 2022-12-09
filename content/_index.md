@@ -38,7 +38,7 @@ sections:
         street: Øster Farimagsgade 5
         city: Copenhagen
         country: Denmark
-        country_code: US
+        country_code: DK
       directions: Department of Economics, University of Copenhagen
       contact_links:
         - icon: twitter
