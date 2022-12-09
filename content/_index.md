@@ -33,15 +33,13 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: tjw@henu.edu.cn
       address:
-        street: 450 Serra Mall
+        street: Øster Farimagsgade 5
         city: Copenhagen
         country: Denmark
         country_code: US
-      directions: Øster Farimagsgade 5, Department of Economics, University of Copenhagen
+      directions: Department of Economics, University of Copenhagen
       contact_links:
         - icon: twitter
           icon_pack: fab
