@@ -43,7 +43,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: tjw_ku
           link: 'https://twitter.com/tjw_ku'
       # Automatically link email and phone or display as text?
       autolink: true
