@@ -1,47 +1,46 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jingwen Tan 谭景文
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jingwen
+last_name: Tan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Department of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Copenhagen
+    url: https://www.ku.dk/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Econometrics
+  - Labour Economics
+  - Development Economics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 
+      year: 
+    - course: Graduate in Economics
+      institution: University of Copenhagen
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Economics
+      institution: Henan University
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
