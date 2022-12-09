@@ -92,7 +92,7 @@ I am a graduate student in the University of Copenhagen, research interests incl
 
 
 
-{style="text-align: justify;"}
+
 
 
 
