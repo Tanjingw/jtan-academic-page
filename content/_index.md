@@ -14,19 +14,42 @@ sections:
       text:
       
       
-      
-  - block: collection
-    id: featured
+  - block: experience
     content:
-      title: Publications
-      text: |-
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Postgraduate in Economics
+          company: University of Copenhagen
+          company_url: 'https://www.ku.dk/english/'
+          company_logo: org-gc
+          location: Copenhagen, Denmark
+          date_start: '2022-09-01'
+          date_end: ''
+          description: |2-
+              Postgraduate courses include:
+              * Advanced Microeconometric
+              * Advanced Macroeconometric
+              * Econometric II
+              * Applied Econometric Policy Evaluation
+              * Advanced Empirical Macroeconomic Analysis
+        - title: Bachelor of Economics
+          company: Henan University
+          company_url: 'https://iao.henu.edu.cn/yw/Home.htm'
+          company_logo: org-x
+          location: Zhengzhou, China
+          date_start: '2018-09-01'
+          date_end: '2022-06-01'
+          description: Majoring in International Economics and Trade.
     design:
-      columns: '3'
-      view: citation
+      columns: '2'
       
       
       
