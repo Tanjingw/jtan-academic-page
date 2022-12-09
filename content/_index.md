@@ -13,8 +13,9 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: collection
+    id: featured
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         
       filters:
