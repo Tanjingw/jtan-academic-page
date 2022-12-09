@@ -12,12 +12,14 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      
+      
+      
   - block: collection
     id: featured
     content:
       title: Publications
       text: |-
-        
       filters:
         folders:
           - publication
@@ -25,6 +27,9 @@ sections:
     design:
       columns: '2'
       view: citation
+      
+      
+      
   - block: contact
     id: contact
     content:
