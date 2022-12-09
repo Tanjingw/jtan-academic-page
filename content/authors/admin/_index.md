@@ -33,14 +33,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 
-      year: 
     - course: Graduate in Economics
-      institution: University of Copenhagen
-      year: 2009
+      institution: University of Copenhagen 
     - course: BA in Economics
       institution: Henan University
-      year: 2018-2022
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
