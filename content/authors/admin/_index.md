@@ -65,30 +65,6 @@ highlight_name: true
 ---
 
 I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics. 
-<h1>Publications</h1>
-
-
-[1]Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health, Forthcoming.</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-
-[2]<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In IEEE, International Conference on Computer Information Science and Artificial Intelligence (CISAI2021).</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
-
-<h1>Working Papers</h1>
-
-[1]<u>Jingwen Tan</u>, Shixi Kang "The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable." <i>under review.</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/IV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-[2]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu "Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data." <i>(This article was presented at the China Economics Annual Conference 2021).</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-[3]<u>Jingwen Tan</u>, Shixi Kang "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018." <i>under review.</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Fertility.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-[4]<u>Jingwen Tan</u>, Shixi Kang "Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey" <i>under review.</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 
 
