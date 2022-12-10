@@ -14,7 +14,7 @@ sections:
       text:
       
       
-        - block: collection
+  - block: collection
     content:
       title: Publications
       text: |-
