@@ -33,7 +33,6 @@ publication_short: In *IEEE-CISAI*
 
 abstract: This paper studies the platform’s third-party incentive mechanism to construct the buyers-sellers evolutionary game model by aiming at the hypothesis of bounded rationality. As was shown by the results: buyers and consumer’s concern and investment on online livestreaming shopping form are closely related to its yield rate, cost, and interest acquired from "free-riding"; platform incentive has a significant positive impact on the investment willingness of both game parties. As the gaining rate of investment income increases gradually, both game parties’ probability of selecting concern and investment is increasing accordingly and many evolutionary stable strategies may emerge.
 
-
 # Summary. An optional shortened abstract.
 summary: Computer Simulation, Livestreaming E-Commerce, Evolutionary Game, Computer-aided Simulated Analysis
 
