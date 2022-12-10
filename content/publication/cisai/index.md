@@ -31,7 +31,8 @@ publication_types: ['1']
 publication: In *2021 IEEE-International Conference on Computer Information Science and Artificial Intelligence (CISAI)*
 publication_short: In *IEEE-CISAI*
 
-abstract: This paper introduce a selection on the strategy of both buyers and sellers for participating in livestreaming e-commerce model by aiming at the current development of livestreaming e-commerce. As what it was shown by the results: buyers and consumer's concern and investment on online livestreaming shopping form are closely related to its yield rate, cost, and interest acquired from "free riding"; Platform incentive has significant positive impact on the investment willingness of both game parties. As the gaining rate of investment income increases gradually, both game parties' probability of selecting concern and investment is increasing accordingly and many evolutionary stable strategies may emerge.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
