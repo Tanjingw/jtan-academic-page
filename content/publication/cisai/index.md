@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *2021 IEEE-International Conference on Computer Information Science and Artificial Intelligence (CISAI)*
 publication_short: In *IEEE-CISAI*
 
-abstract: This paper studies the thirdparty of platform incentive mechanism to construct the buyers-sellers evolutionary game model by aiming at the hypothesis of bounded rationality. As was shown by the results: buyers and consumer are concern and investment on online livestreaming shopping form are closely related to its yield rate, cost, and interest acquired from free riding; platform incentive has a significant positive impact on the investment willingness of both game parties. As the gaining rate of investment income increases gradually, probability of both game parties selecting concern and investment is increasing accordingly and many evolutionary stable strategies may emerge.
+abstract: This paper studies the thirdparty of platform incentive mechanism to construct the buyers-sellers evolutionary game model by aiming at the hypothesis of bounded rationality. As was shown by the results: buyers and consumer are concern and investment on online livestreaming shopping form are closely related to its yield rate, cost, and interest acquired from free riding; platform incentive has a significant positive impact on the investment willingness of both game parties.
 
 # Summary. An optional shortened abstract.
 summary: Computer Simulation, Livestreaming E-Commerce, Evolutionary Game, Computer-aided Simulated Analysis
