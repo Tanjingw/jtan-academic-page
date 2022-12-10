@@ -7,7 +7,6 @@ title: 'Platform Incentives and Willingness of Participant for Investment on Liv
 authors:
   - admin
   - Shixi Kang
-  - Yang Qu
 
 # Author notes (optional)
 author_notes:
