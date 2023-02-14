@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingwen Tan 谭景文
+title: Jingwen Tan
 
 # Full name (for SEO)
 first_name: Jingwen
